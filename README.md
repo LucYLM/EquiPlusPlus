@@ -1,2 +1,0 @@
-# EquiPlusPlus
-Created with CodeSandbox
